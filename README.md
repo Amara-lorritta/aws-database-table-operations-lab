@@ -127,4 +127,6 @@ Amarachi Emeziem
 
 Cloud Security & IT Support Specialist | AWS & Azure Certified
 
-LinkedIn  • GitHub
+LinkedIn  https://www.linkedin.com/in/amarachilemeziem/
+
+GitHub    https://github.com/Amara-lorritta
